@@ -1,0 +1,14 @@
+D:\skillupfinal\Shape\Shape\bin\Debug\Shape.exe.config
+D:\skillupfinal\Shape\Shape\bin\Debug\Shape.exe
+D:\skillupfinal\Shape\Shape\bin\Debug\Shape.pdb
+D:\skillupfinal\Shape\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
+D:\skillupfinal\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+D:\skillupfinal\Shape\Shape\obj\Debug\Shape.exe
+D:\skillupfinal\Shape\Shape\obj\Debug\Shape.pdb
+D:\My programs\skillupfinal\Shape\Shape\bin\Debug\Shape.exe.config
+D:\My programs\skillupfinal\Shape\Shape\bin\Debug\Shape.exe
+D:\My programs\skillupfinal\Shape\Shape\bin\Debug\Shape.pdb
+D:\My programs\skillupfinal\Shape\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
+D:\My programs\skillupfinal\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+D:\My programs\skillupfinal\Shape\Shape\obj\Debug\Shape.exe
+D:\My programs\skillupfinal\Shape\Shape\obj\Debug\Shape.pdb

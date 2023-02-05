@@ -1,0 +1,7 @@
+D:\skillupfinal\Shape\Shape\bin\Release\Shape.exe.config
+D:\skillupfinal\Shape\Shape\bin\Release\Shape.exe
+D:\skillupfinal\Shape\Shape\bin\Release\Shape.pdb
+D:\skillupfinal\Shape\Shape\obj\Release\Shape.csprojAssemblyReference.cache
+D:\skillupfinal\Shape\Shape\obj\Release\Shape.csproj.CoreCompileInputs.cache
+D:\skillupfinal\Shape\Shape\obj\Release\Shape.exe
+D:\skillupfinal\Shape\Shape\obj\Release\Shape.pdb
